@@ -1,0 +1,7 @@
+apikey
+/build/
+/target/
+/.settings/
+.classpath
+.project
+
